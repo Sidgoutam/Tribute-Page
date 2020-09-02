@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.image{
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.heading{
+    margin-top: -2rem;
+    text-align: center;
+}
+
+.content{
+    margin: 0 20rem;
+}
+
+.hits{
+    margin: 0rem 20rem;
+}
+
+.hitslist{
+    list-style-type: none;
+    display: inline-block;
+}
